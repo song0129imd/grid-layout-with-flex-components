@@ -41,6 +41,7 @@ body {
   /* align-items: stretch; */
   justify-content: space-between;
   height: 300px;
+  margin-left: 20px;
 }
 
 .icon {
