@@ -38,15 +38,17 @@ body {
 .emoji {
   display: flex;
   flex-direction: column;
-  /* align-items: stretch; */
-  justify-content: space-between;
-  height: 300px;
-  margin-left: 20px;
+  justify-content: space-evenly;
+  margin: 20px;
 }
 
 .icon {
   order:-1;
   align-self: center;
+}
+
+p {
+  height: 80px;
 }
 
 
